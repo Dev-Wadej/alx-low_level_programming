@@ -1,4 +1,4 @@
-#include "main.h"
+#include <unistd.h>
 /**
  * print_alphabet_x10 - prints alphabet 10 times
  *
