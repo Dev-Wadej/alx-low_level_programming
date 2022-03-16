@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "#include <stdio.h>"
 /**
  * print_sign - main function
  *

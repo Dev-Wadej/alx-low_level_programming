@@ -1,5 +1,4 @@
-#ifndef _HOLBERTON_H_
-#define _HOLBERTON_H_
+#include <unistd.h>
 /**
  * _putchar - writes the character c to std
  * @c: parameter to compare
