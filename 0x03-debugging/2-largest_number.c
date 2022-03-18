@@ -18,13 +18,9 @@ int main(void)
         largest = largest_number(a, b, c);
 
         printf("%d is the largest number\n", largest);
-
-        return (0);
+return(0);
 }
-carrie@ubuntu:/debugging$
-carrie@ubuntu:/debugging$ cat 2-largest_number.c
-#include "main.h"
-
+     
 /**
  * largest_number - returns the largest of 3 numbers
  * @a: first integer
